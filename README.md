@@ -12,9 +12,9 @@ activity limitations in adults.
 
 ## Research Question
 
-Is prolonged sedentary behavior associated with increased prevalence of 
-low back pain and functional activity limitations in adults, after 
-controlling for age, sex, and BMI?
+Which lifestyle and demographic factors are associated with 
+self-reported functional movement difficulty in working-age 
+U.S. adults (20–65)?
 
 ---
 
